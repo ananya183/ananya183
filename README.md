@@ -3,6 +3,7 @@
 ![Ananya's Avatar](https://avatars.githubusercontent.com/u/107414694?v=4)
 
 I'm a passionate student with a major in EECS (Electrical Engineering and Computer Science) and a minor in Data Science Engineering at the Indian Institute of Science Education and Research, Bhopal. Currently, I'm working in The Multi-rObot autONomy (MOON) lab at IISER Bhopal under the guidance of Professor Sujit PB.
+
 Currently, I am doing my Masters in EECS at IISER Bhopal.
 
 ### Research and Work
