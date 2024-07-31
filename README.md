@@ -1,4 +1,4 @@
-### Hi there, I'm Ananya 👋
+# Hi there, I'm Ananya 👋
 
 ![Ananya's Avatar](https://avatars.githubusercontent.com/u/107414694?v=4)
 
