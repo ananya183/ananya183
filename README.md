@@ -27,7 +27,7 @@ A collection of various data science and machine learning projects, ranging from
 
 ### Hobbies ;)
 
-- Coding, Reading, Letter Writing, Stamp Collection, Traveling, Playing Kalimba, Basketball, Hiking, and yes, Sleeping 😴
+- Coding, Reading, Letter Writing and Stamp Collection, Playing Kalimba, Travelling, Basketball, Hiking, and yes, Sleeping 😴
 
 ### Interests
 
