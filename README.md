@@ -43,6 +43,8 @@ A collection of various data science and machine learning projects, ranging from
 
 - **Email**: [ananya.gandhi.183@gmail.com](mailto:ananya.gandhi.183@gmail.com) 
 - **LinkedIn**: [linkedin.com/in/ananya183](https://www.linkedin.com/in/ananya183)
+- **ORCID**: [orcid.org/0009-0004-1807-200X](https://orcid.org/0009-0004-1807-200X)
+- **Medium**: [medium.com/@ananya.gandhi.183](https://medium.com/@ananya.gandhi.183)
 
 ### GitHub Stats
 
