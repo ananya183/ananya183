@@ -22,7 +22,7 @@ Presently, I am doing my Masters in EECS at IISER Bhopal.
 #### [Drone Simulation](https://github.com/ananya183/drone-simulation)
 Developing a simulation involving leader and follower drones using Unity and C#. This project aims to explore the dynamics and control mechanisms of multi-agent swarm systems.
 
-#### [Data Science Projects](https://github.com/ananya183/data-science-projects)
+#### [Data Science Projects](https://github.com/ananya183?tab=repositories)
 A collection of various data science and machine learning projects, ranging from basic exploratory data analysis to complex neural network implementations.
 
 ### Hobbies ;)
