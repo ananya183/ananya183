@@ -14,8 +14,8 @@ Presently, I am doing my Masters in EECS at IISER Bhopal.
 ### Skills
 
 - **Programming Languages**: C#, Python, C++, Java
-- **Tools & Frameworks**: Unity, TensorFlow, PyTorch, MATLAB
-- **Areas of Expertise**: Multi Agent Reinforcement Learning, Drone Simulations, Autonomous Systems, Data Science, Machine Learning
+- **Tools & Frameworks**: Unity, TensorFlow, PyTorch, MATLAB, Shapr3D, LaTex, Xanadu - PennyLane
+- **Areas of Expertise**: Multi Agent Reinforcement Learning, Drone Simulations, Autonomous Systems, Data Science, Machine Learning, Artificial Intelligence, Computer Vision
 
 ### Projects
 
