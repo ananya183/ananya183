@@ -25,7 +25,7 @@ Developing a simulation involving leader and follower drones using Unity and C#.
 #### [Data Science Projects](https://github.com/ananya183?tab=repositories)
 A collection of various data science and machine learning projects, ranging from basic exploratory data analysis to complex neural network implementations.
 
-### Hobbies ;)
+### Hobbies :)
 
 - Coding, Reading, Letter Writing and Stamp Collection, Playing Kalimba, Travelling, Basketball, Hiking, and yes, Sleeping 😴
 
